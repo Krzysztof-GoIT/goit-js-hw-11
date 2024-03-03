@@ -4,6 +4,7 @@
   "description": "Цей проект створено за допомогою Parcel. Для ознайомлення та налаштування \r додаткових можливостей, [зверніться до документації](https://parceljs.org/).",
   "homepage": "https://krzysztof-goit.github.io/goit-js-hw-11/",
   "scripts": {
+    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
